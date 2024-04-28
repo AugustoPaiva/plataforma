@@ -1,0 +1,5 @@
+res://actors/player.tscn
+res://shaders/movement_clouds.gdshader
+res://levels/world_01.tscn
+res://prefabs/moving_plataform.tscn
+res://scripts/moving_plataform.gd
